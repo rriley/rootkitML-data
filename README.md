@@ -6,6 +6,6 @@ Baljit Singh, Dmitry Evtyushkin, Jesse Elwell, Ryan Riley, and Iliano Cervesato,
 It is our hope in releasing it that others will be able to improve on our
 results.
 
--Ryan Riley
- April, 2017
+Ryan Riley  
+April, 2017
 
